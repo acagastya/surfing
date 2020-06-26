@@ -1,19 +1,25 @@
 # Web surfing
+
 [TOC]
 
 ## About this page
-Over the years, I have learned a great deal of things from Dr John N Shutt.  One of the things that Dr Shutt would mention was their surfing page.
 
-I was careless to lose that message.  Ironically, in that message, Dr Shutt had explained how he would save a list of all the resources that he had found helpful over the years.  While that message is lost, the intent is passed on successfully.  This is my page of the resources.
+Over the years, I have learned a great deal of things from Dr John N Shutt. One of the things that Dr Shutt would mention was their surfing page.
+
+I was careless to lose that message. Ironically, in that message, Dr Shutt had explained how he would save a list of all the resources that he had found helpful over the years. While that message is lost, the intent is passed on successfully. This is my page of the resources.
 
 ## Lists
-+ [Web Surfing](https://web.cs.wpi.edu/~jshutt/surfing.html) by Dr John N. Shutt.  [Archived link](http://web.archive.org/web/20200620195809/https://web.cs.wpi.edu/~jshutt/surfing.html).
+
+- [Web Surfing](https://web.cs.wpi.edu/~jshutt/surfing.html) by Dr John N. Shutt. [Archived link](http://web.archive.org/web/20200620195809/https://web.cs.wpi.edu/~jshutt/surfing.html).
 
 ## Society
+
 ### Discrimination
-+ [Reflections on the Color of My Skin](https://www.haydenplanetarium.org/tyson/commentary/2020-06-03-reflections-on-color-of-my-skin.php) (**"when you see black kids in the street, think of what they can be rather than what you think they are"**) by Neil deGrasse Tyson.  Dated June 3, 2020.  [Archived link](http://web.archive.org/web/20200617143634/https://haydenplanetarium.org/tyson/commentary/2020-06-03-reflections-on-color-of-my-skin.php).
+
+- [Reflections on the Color of My Skin](https://www.haydenplanetarium.org/tyson/commentary/2020-06-03-reflections-on-color-of-my-skin.php) (**"when you see black kids in the street, think of what they can be rather than what you think they are"**) by Neil deGrasse Tyson. Dated June 3, 2020. [Archived link](http://web.archive.org/web/20200617143634/https://haydenplanetarium.org/tyson/commentary/2020-06-03-reflections-on-color-of-my-skin.php).
 
 ## Programming
-### Philosophy
-+ [Why MIT now uses python instead of scheme for its undergraduate CS program](https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/) (**what generaly happened was a programmer would think for a really long time, and then write just a little bit of code [...]  It was a much simpler time**) by Chas Emerick.  Dated March 24, 2009.  [Archived link](https://web.archive.org/web/20200625002236/https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/).
 
+### Philosophy
+
+- [Why MIT now uses python instead of scheme for its undergraduate CS program](https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/) (**"what generaly happened was a programmer would think for a really long time, and then write just a little bit of code [...] It was a much simpler time"**) by Chas Emerick. Dated March 24, 2009. [Archived link](https://web.archive.org/web/20200625002236/https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/).
