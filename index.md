@@ -16,3 +16,4 @@ I was careless to lose that message.  Ironically, in that message, Dr Shutt had 
 ## Programming
 ### Philosophy
 + [Why MIT now uses python instead of scheme for its undergraduate CS program](https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/) (**what generaly happened was a programmer would think for a really long time, and then write just a little bit of code [...]  It was a much simpler time**) by Chas Emerick.  Dated March 24, 2009.  [Archived link](https://web.archive.org/web/20200625002236/https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/).
+
