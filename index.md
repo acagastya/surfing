@@ -29,3 +29,9 @@ I was careless to lose that message. Ironically, in that message, Dr Shutt had e
 ### DMCA
 
 - [RIAA kills youtube-dl](https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201) (**"But from the very first days, it was clear that DMCA1201 was NOT about preventing copyright infringement, it was about enforcing business models."**) by Cory Doctorow.  Dated October 24, 2020.  [Archived link](http://web.archive.org/web/20201025091726/https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201)
+
+## Operating Systems
+
+### UNIX
+
+- [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) by  AT&T Tech Channel.  Dated February 22, 2012.  [Archived link](http://web.archive.org/web/20201007024906if_/https://www.youtube.com/watch?v=tc4ROCJYbm0)
