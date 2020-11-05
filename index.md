@@ -26,7 +26,7 @@ I was careless to lose that message. Ironically, in that message, Dr Shutt had e
 
 ### C++
 
-- [Re: [RFC] Convert builin-mailinfo.c to use The Better String Library.](http://harmful.cat-v.org/software/c++/linus) (**Quite frankly, even if the choice of C were to do *nothing* but keep the C++ programmers out, that in itself would be a huge reason to use C.**) by Linus Torvalds.  Dated September 6, 2007 [Archived link](https://web.archive.org/web/20201101005415/http://harmful.cat-v.org/software/c++/linus)
+- [Re: [RFC] Convert builin-mailinfo.c to use The Better String Library.](http://harmful.cat-v.org/software/c++/linus) (**Quite frankly, even if the choice of C were to do *nothing* but keep the C++ programmers out, that in itself would be a huge reason to use C.**) by Linus Torvalds.  Dated September 6, 2007 [Archived link](https://web.archive.org/web/20201101005415/http://harmful.cat-v.org/software/c++/linus).
 
 ## Digital rights
 
