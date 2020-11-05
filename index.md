@@ -33,6 +33,7 @@ I was careless to lose that message. Ironically, in that message, Dr Shutt had e
 ### DMCA
 
 - [RIAA kills youtube-dl](https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201) (**"But from the very first days, it was clear that DMCA1201 was NOT about preventing copyright infringement, it was about enforcing business models."**) by Cory Doctorow.  Dated October 24, 2020.  [Archived link](http://web.archive.org/web/20201025091726/https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201).
+- [Parasites by John Carmack](https://games.slashdot.org/comments.pl?sid=151312&cid=12701745) (**Why should society reward that? What benefit does it bring? It doesn’t help bring more, better, or cheaper products to market. Those all come from competition, not arbitrary monopolies.**) by John Carmack.  Dated June 01, 2005.  [Archived link](http://web.archive.org/web/20170809054444/https://games.slashdot.org/comments.pl?sid=151312&cid=12701745).
 
 ## Operating Systems
 
