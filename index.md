@@ -24,6 +24,10 @@ I was careless to lose that message. Ironically, in that message, Dr Shutt had e
 
 - [Why MIT now uses python instead of scheme for its undergraduate CS program](https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/) (**"what generaly happened was a programmer would think for a really long time, and then write just a little bit of code [...] It was a much simpler time"**) by Chas Emerick. Dated March 24, 2009. [Archived link](https://web.archive.org/web/20200625002236/https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/).
 
+### C++
+
+- [Re: [RFC] Convert builin-mailinfo.c to use The Better String Library.](http://harmful.cat-v.org/software/c++/linus) (**Quite frankly, even if the choice of C were to do *nothing* but keep the C++ programmers out, that in itself would be a huge reason to use C.**) by Linus Torvalds.  Dated September 6, 2007 [Archived link](https://web.archive.org/web/20201101005415/http://harmful.cat-v.org/software/c++/linus)
+
 ## Digital rights
 
 ### DMCA
