@@ -26,7 +26,7 @@ I was careless to lose that message. Ironically, in that message, Dr Shutt had e
 
 ### Haskell
 
-- [Haskell for JavaScript programmers](https://www.youtube.com/watch?v=pUN3algpvMs&feature=youtu.be) by Alexey Kutepov.  Dated January 19, 2018 [Archived link](http://web.archive.org/web/20201120090312/https://www.youtube.com/watch?v=pUN3algpvMs)
+- [Haskell for JavaScript programmers](https://www.youtube.com/watch?v=pUN3algpvMs&feature=youtu.be) by Alexey Kutepov.  Dated January 19, 2018 [Archived link](http://web.archive.org/web/20201120090312/https://www.youtube.com/watch?v=pUN3algpvMs).
 
 ### Libraries
 
