@@ -20,20 +20,28 @@ I was careless to lose that message. Ironically, in that message, Dr Shutt had e
 
 ## Programming
 
-### Philosophy
-
-- [Why MIT now uses python instead of scheme for its undergraduate CS program](https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/) (**"what generaly happened was a programmer would think for a really long time, and then write just a little bit of code [...] It was a much simpler time"**) by Chas Emerick. Dated March 24, 2009. [Archived link](https://web.archive.org/web/20200625002236/https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/).
-
 ### C++
 
 - [Re: [RFC] Convert builin-mailinfo.c to use The Better String Library.](http://harmful.cat-v.org/software/c++/linus) (**Quite frankly, even if the choice of C were to do *nothing* but keep the C++ programmers out, that in itself would be a huge reason to use C.**) by Linus Torvalds.  Dated September 6, 2007 [Archived link](https://web.archive.org/web/20201101005415/http://harmful.cat-v.org/software/c++/linus).
+
+### Haskell
+
+- [Haskell for JavaScript programmers](https://www.youtube.com/watch?v=pUN3algpvMs&feature=youtu.be) by Alexey Kutepov.  Dated January 19, 2018 [Archived link](http://web.archive.org/web/20201120090312/https://www.youtube.com/watch?v=pUN3algpvMs)
+
+### Libraries
+
+- [matplotlib.pyplot.xkcd](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xkcd.html) (**Turn on xkcd sketch-style drawing mode**) by Matplotlib.  Date of access November 24, 2020 [Archived link](http://web.archive.org/web/20201101014822/https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xkcd.html).
+
+### Philosophy
+
+- [Why MIT now uses python instead of scheme for its undergraduate CS program](https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/) (**"what generaly happened was a programmer would think for a really long time, and then write just a little bit of code [...] It was a much simpler time"**) by Chas Emerick. Dated March 24, 2009. [Archived link](https://web.archive.org/web/20200625002236/https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/).
 
 ## Digital rights
 
 ### DMCA
 
 - [RIAA kills youtube-dl](https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201) (**"But from the very first days, it was clear that DMCA1201 was NOT about preventing copyright infringement, it was about enforcing business models."**) by Cory Doctorow.  Dated October 24, 2020.  [Archived link](http://web.archive.org/web/20201025091726/https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201).
-- [Parasites by John Carmack](https://games.slashdot.org/comments.pl?sid=151312&cid=12701745) (**Why should society reward that? What benefit does it bring? It doesn’t help bring more, better, or cheaper products to market. Those all come from competition, not arbitrary monopolies.**) by John Carmack.  Dated June 01, 2005.  [Archived link](http://web.archive.org/web/20170809054444/https://games.slashdot.org/comments.pl?sid=151312&cid=12701745).
+- [Parasites by John Carmack](https://games.slashdot.org/comments.pl?sid=151312&cid=12701745) (**Why should society reward that? What benefit does it bring? It doesn't help bring more, better, or cheaper products to market. Those all come from competition, not arbitrary monopolies.**) by John Carmack.  Dated June 01, 2005.  [Archived link](http://web.archive.org/web/20170809054444/https://games.slashdot.org/comments.pl?sid=151312&cid=12701745).
 
 ## Operating Systems
 
